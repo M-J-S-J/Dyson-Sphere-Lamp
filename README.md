@@ -11,3 +11,4 @@
 - 导电滑环如图  
 ![image](https://user-images.githubusercontent.com/87884954/126854599-cd6bda9b-9a0a-4101-95eb-a9a0010be21d.png)
 - LED选择的是WS2812灯带  
+- 单片机选择的是两块stc15w104 和一块 stc15w204 最近芯片涨价很厉害
